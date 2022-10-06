@@ -4,3 +4,10 @@ da NTT Data.
 
 ## Tecnologia utilizada
 HTML
+
+Foi utilizada as tags aprendidas durante as aulas do curso.
+- Listas
+- Tabelas
+- Mídias
+- Formulários
+- Links
